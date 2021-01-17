@@ -1,0 +1,7 @@
+.txt {
+    position: fixed;
+    bottom: 5vh;
+    color: grey;
+    font-size: 36px;
+    z-index: 9999;
+  }
