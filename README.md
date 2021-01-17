@@ -1,1 +1,2 @@
 # MIcAudioToSubtitles
+音声をステレオミキサなどで入力に流して字幕を生成するchrome拡張機能
